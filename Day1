@@ -1,0 +1,11 @@
+what is python?
+  python is a language used for -web development-cloud automation-aiml-and etc..
+  print("Hello World")
+what is variable?
+variable is like a box, the box is used to store things etc,..
+name = "Varun"
+  name is variable
+print(name)
+what is datatype ?
+  datatype are used to show what type of data is store, datatypes are -int,float,boolen,string
+  
