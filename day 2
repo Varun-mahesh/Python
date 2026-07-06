@@ -30,3 +30,11 @@ None: A special value that represents the absence of a value.
 my_none_var = None
 print('None:', my_none_var) # None: None
 In future lessons, you will learn more about how to work with all of these data types.
+
+
+
+
+
+
+
+https://www.programiz.com/python-programming/online-compiler/
